@@ -141,6 +141,7 @@
 		44F542731876A9B100CD7EC2 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 44F542721876A9B100CD7EC2 /* AppDelegate.m */; };
 		44F542761876A9B100CD7EC2 /* HelloWorldLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 44F542751876A9B100CD7EC2 /* HelloWorldLayer.m */; };
 		44F542791876A9B100CD7EC2 /* IntroLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 44F542781876A9B100CD7EC2 /* IntroLayer.m */; };
+		44F542841876ABD100CD7EC2 /* TitleMenuLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 44F542831876ABD100CD7EC2 /* TitleMenuLayer.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -425,6 +426,8 @@
 		44F542751876A9B100CD7EC2 /* HelloWorldLayer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HelloWorldLayer.m; sourceTree = "<group>"; };
 		44F542771876A9B100CD7EC2 /* IntroLayer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IntroLayer.h; sourceTree = "<group>"; };
 		44F542781876A9B100CD7EC2 /* IntroLayer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = IntroLayer.m; sourceTree = "<group>"; };
+		44F542821876ABD100CD7EC2 /* TitleMenuLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TitleMenuLayer.h; sourceTree = "<group>"; };
+		44F542831876ABD100CD7EC2 /* TitleMenuLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TitleMenuLayer.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -494,6 +497,8 @@
 				44F540E11876A9AF00CD7EC2 /* Resources */,
 				44F540F91876A9AF00CD7EC2 /* libs */,
 				44F5426D1876A9B100CD7EC2 /* Supporting Files */,
+				44F542821876ABD100CD7EC2 /* TitleMenuLayer.h */,
+				44F542831876ABD100CD7EC2 /* TitleMenuLayer.m */,
 			);
 			path = SpeedTouch;
 			sourceTree = "<group>";
@@ -961,6 +966,7 @@
 				44F541371876A9AF00CD7EC2 /* ccDeprecated.m in Sources */,
 				44F541F21876A9B000CD7EC2 /* CCDirectorMac.m in Sources */,
 				44F5414C1876A9B000CD7EC2 /* ccGLStateCache.m in Sources */,
+				44F542841876ABD100CD7EC2 /* TitleMenuLayer.m in Sources */,
 				44F5421E1876A9B100CD7EC2 /* TransformUtils.m in Sources */,
 				44F5416B1876A9B000CD7EC2 /* CCNode+Debug.m in Sources */,
 				44F541461876A9B000CD7EC2 /* ccFPSImages.m in Sources */,
